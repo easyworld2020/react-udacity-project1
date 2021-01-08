@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-udacity-project1/static/css/main.764e6386.chunk.css",
+    "main.js": "/react-udacity-project1/static/js/main.08f7b2cf.chunk.js",
+    "main.js.map": "/react-udacity-project1/static/js/main.08f7b2cf.chunk.js.map",
+    "runtime-main.js": "/react-udacity-project1/static/js/runtime-main.a2371a23.js",
+    "runtime-main.js.map": "/react-udacity-project1/static/js/runtime-main.a2371a23.js.map",
+    "static/js/2.3062d383.chunk.js": "/react-udacity-project1/static/js/2.3062d383.chunk.js",
+    "static/js/2.3062d383.chunk.js.map": "/react-udacity-project1/static/js/2.3062d383.chunk.js.map",
+    "index.html": "/react-udacity-project1/index.html",
+    "static/css/main.764e6386.chunk.css.map": "/react-udacity-project1/static/css/main.764e6386.chunk.css.map",
+    "static/js/2.3062d383.chunk.js.LICENSE.txt": "/react-udacity-project1/static/js/2.3062d383.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-udacity-project1/static/media/arrow-drop-down.98ef3b31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2371a23.js",
+    "static/js/2.3062d383.chunk.js",
+    "static/css/main.764e6386.chunk.css",
+    "static/js/main.08f7b2cf.chunk.js"
+  ]
+}
